@@ -34,7 +34,7 @@ This Power BI dashboard provides insights into supermarket sales performance, cu
 - Data Visualization
 - Data Analysis
 
-## Dashboard Preview
+#### Dashboard Preview
 (<img width="1411" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/5c655b01-b025-4e7c-9b0c-57d2dd08fec6" />)
 
 
