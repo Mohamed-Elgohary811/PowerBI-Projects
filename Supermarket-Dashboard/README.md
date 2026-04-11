@@ -5,7 +5,7 @@
 - [Key Metrics](#key-metrics)
 - [Features](#features)
 - [Tools Used](#tools-used)
-- [Dashboard Preview](#dashboard_preview)
+- [Dashboard Preview](#dashboard-preview)
 - [Author](#author)
 
 #### Overview
