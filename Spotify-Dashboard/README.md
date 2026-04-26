@@ -33,7 +33,7 @@ This Power BI dashboard provides insights into Spotify music data, including son
 - Data Analysis
 
 #### Dashboard Preview
-![Dashboard](https://github.com/user-attachments/assets/your-image-id-here)
+![Dashboard](dashboard%20screen.png)
 
 #### Author
 > Mohamed Elgohary — [GitHub](https://github.com/Mohamed-Elgohary811) | [LinkedIn](https://www.linkedin.com/feed/)
