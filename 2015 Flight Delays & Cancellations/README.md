@@ -48,13 +48,13 @@ This Power BI dashboard provides a comprehensive analysis of U.S. domestic fligh
 <img src="Dashboards/page2_scr.png" width="700"/>
 
 **Delay Analysis**
-![Delay Analysis](Dashboards/page3_scr.png)
+<img src="Dashboards/page3_scr.png" width="700"/>
 
 **Airline Performance**
-![Airline Performance](Dashboards/page4_scr.png)
+<img src="Dashboards/page4_scr.png" width="700"/>
 
 **Airport & Routes**
-![Airport & Routes](Dashboards/page5_scr.png)
+<img src="Dashboards/page5_scr.png" width="700"/>
 
 #### Author
 > Mohamed Elgohary — [GitHub](https://github.com/Mohamed-Elgohary811) | [LinkedIn](https://www.linkedin.com/feed/)
