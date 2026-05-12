@@ -36,6 +36,8 @@ It provides insights into customer retention, demographics, financial behavior, 
 #### Dashboard Preview
 <img width="1918" height="972" alt="churn dashboard" src="(https://github.com/Mohamed-Elgohary811/PowerBI-Projects/blob/main/Customer-Churn/dashboard.png)" />
 
+![Customer Churn Dashboard](https://github.com/Mohamed-Elgohary811/PowerBI-Projects/raw/main/Customer-Churn/dashboard.png)
+
 #### Insights
 - Germany has the highest churn rate compared to other countries.
 - Older customers (50+) show higher probability of churn.
