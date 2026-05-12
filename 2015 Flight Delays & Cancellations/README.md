@@ -42,6 +42,9 @@ This Power BI dashboard provides a comprehensive analysis of U.S. domestic fligh
 - Data Modeling & Relationships
 - Data Visualization
 
+
+#### Dashboard Preview
+
 **Overview**
 <img src="Dashboards/page2_scr.png" width="100%"/>
 
