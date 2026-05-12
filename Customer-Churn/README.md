@@ -34,7 +34,7 @@ It provides insights into customer retention, demographics, financial behavior, 
 - Data Cleaning & Feature Engineering
 
 #### Dashboard Preview
-<img width="1918" height="972" alt="churn dashboard" src="(https://github.com/Mohamed-Elgohary811/PowerBI-Projects/blob/main/Customer-Churn/dashboard.pbix)" />
+<img width="1918" height="972" alt="churn dashboard" src="(https://github.com/Mohamed-Elgohary811/PowerBI-Projects/blob/main/Customer-Churn/dashboard.png)" />
 
 #### Insights
 - Germany has the highest churn rate compared to other countries.
