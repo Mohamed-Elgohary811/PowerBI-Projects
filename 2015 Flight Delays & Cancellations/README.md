@@ -45,7 +45,7 @@ This Power BI dashboard provides a comprehensive analysis of U.S. domestic fligh
 #### Dashboard Preview
 
 **Overview**
-![Overview](<img src="Dashboards/page2_scr.png" width="700"/>)
+<img src="Dashboards/page2_scr.png" width="700"/>
 
 **Delay Analysis**
 ![Delay Analysis](Dashboards/page3_scr.png)
