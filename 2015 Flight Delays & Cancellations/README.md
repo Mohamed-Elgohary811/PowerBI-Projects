@@ -45,7 +45,7 @@ This Power BI dashboard provides a comprehensive analysis of U.S. domestic fligh
 #### Dashboard Preview
 
 **Overview**
-![Overview]([page2_scr](https://github.com/Mohamed-Elgohary811/PowerBI-Projects/blob/main/2015%20Flight%20Delays%20%26%20Cancellations/Dashboards/page2_scr.png))
+![Overview]([page2_scr](/Dashboards/page2_scr.png))
 
 **Delay Analysis**
 ![Delay Analysis](page3_scr.png)
